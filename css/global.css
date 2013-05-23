@@ -1,0 +1,11 @@
+div#past, div#future {
+  display: inline-block;
+  width: 615px;
+  height: 100%;
+}
+
+div#present {
+  display: inline-block;
+  width: 615px;
+  height: 100%;
+}
